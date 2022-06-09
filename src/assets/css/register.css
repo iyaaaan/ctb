@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.tree-bg {
+  height: 100vh;
+  background-image: url("../img/tree.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+}
+
+@media (max-width: 769px) {
+  .tree-bg {
+    display: none;
+  }
+}
+
+.sidebar {
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.login-btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  min-width: 150px;
+}
+
+.login-logo {
+  margin: 0 auto;
+  max-height: 360px;
+}
+
+.columns {
+  margin: 0px;
+}
+
+.form {
+  margin-left: 33.33333%;
+}
