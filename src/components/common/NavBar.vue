@@ -11,7 +11,7 @@
             <img src="@/assets/logo.png" style="max-height: 115px" />
           </a>
           <span class="navbar-item title is-4" style="margin-bottom: 0px">
-            Central Tree Bank Platform
+            Central Tree Bank Platformx
           </span>
 
           <a
